@@ -4,7 +4,7 @@
 ----
 
 ## Application Summary  
-This web scraping applciation was built to get more familiar with web scraping and become more proficient with certain tools. Web scraping or web harvesting, or web data extraction is data scraping used for extracting data from websites. I used ebay as my site of choice to extract from. 
+This web scraping applciation was built to get more familiar with web scraping and become more proficient with certain tools. Web scraping or web harvesting, or web data extraction is data scraping used for extracting data from websites. I used ebay as my site of choice to extract from. In this application I'm viewing all the prices and buying options of surface book laptops.  
 
 ## Features:  
 - Find all the prices of the chosen item.  
