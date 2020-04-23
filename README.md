@@ -15,6 +15,7 @@
 ## Technologies used:  
 - C#  
 - Visual Studio 2019  
+- HtmlAgilityPack  
 
 ---
 
