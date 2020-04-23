@@ -10,9 +10,6 @@ This web scraping applciation was built to get more familiar with web scraping a
 - Find all the prices of the chosen item.  
 - Find all the buying options of the chosen item.  
 
-## Application Specifications
-###### Application includes the following:  
-
 ## Technologies used:  
 - C#  
 - Visual Studio 2019  
